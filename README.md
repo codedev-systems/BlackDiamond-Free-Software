@@ -1,0 +1,16 @@
+<h4>O que é o BlackDiamond?</h4>
+<p>O BlackDiamond é um sistema simples que automatiza a geração de documentos contábeis. Todos os cálculos necessários, assim como a geração e formatação do documento, são realizados de forma automática, facilitando e agilizando todo o processo de criação do documento e evitando falhas humanas.</p>
+
+<h4>Documentos Contábeis</h4>
+<p>O BlackDiamond trabalha com 3 tipos de documentos financeiros:</p>
+<ul>
+  <li>DRE (Demonstrativo de Resultado do Exercício): exibe os resultados de uma organização em um certo período, exibindo informações como receita bruta, receita líquida, lucro bruto, lucro operacional e lucro líquido.</li>
+  <li>BP (Balanço Patrimonial): contém informações patrimoniais da empresa, exibindo todos seus ativos, passivos e o seu patrimônio líquido.</li>
+  <li>DFC (Demonstrativo de Fluxo de Caixa): documento que registra todas as entradas e saídas de caixa de uma companhia em um determinado período.</li>
+</ul>
+
+<h4>Interface Simples</h4>
+<p>A interface simples do BlackDiamond permite que o usuário faça uso de suas funcionalidades sem nenhuma dificuldade, bastando selecionar o tipo de documento que ele quer trabalhar por meio do menu lateral esquerdo e preencher todas as informações solicitadas via formulário, com toda parte mais complexa sendo realizada pelo BlackDiamond.</p>
+
+<h4>Geração do Documento</h4>
+<p>Ao final de todo processo é gerado um documento PDF contendo informações de acordo com o tipo de documento selecionado e com os dados passados via formulário. O nome do arquivo e a localização onde será salvo na máquina são de escolha do usuário.</p>
