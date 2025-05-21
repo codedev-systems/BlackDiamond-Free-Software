@@ -14,3 +14,8 @@
 
 <h2>Geração do Documento</h2>
 <p>Ao final de todo processo é gerado um documento PDF contendo informações de acordo com o tipo de documento selecionado e com os dados passados via formulário. O nome do arquivo e a localização onde será salvo na máquina são de escolha do usuário.</p>
+
+<h2>Geração do arquivo executável por meio dos scripts</h2>
+<p>Para gerar o arquivo executável (.exe) do programa por dos scripts Python (.py), use do seguinte comando:</p>
+<pre>pyinstaller --version-file=version.txt --name="BlackDiamond" --icon=images\icon.ico --hidden-import=babel.numbers --additional-hooks-dir=. --onefile --windowed main.py</pre>
+<p><strong>OBS.: o executável do programa deve estar jundo do diretório /images.</strong></p>
